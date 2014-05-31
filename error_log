@@ -1,0 +1,2 @@
+[09-Apr-2014 08:29:24 UTC] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'mynetai@pin2'@'localhost' (using password: YES) in /home/mynetai/public_html/pin2/pinupdate/index.php on line 3
+[09-Apr-2014 08:29:35 UTC] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'mynetai@pin2'@'localhost' (using password: YES) in /home/mynetai/public_html/pin2/pinupdate/index.php on line 3
